@@ -1,3 +1,4 @@
-flask
+aiogram
+aiohttp
+aiosqlite
 psutil
-python-telegram-bot
